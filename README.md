@@ -4,7 +4,7 @@
 
 To install the package run
 
-`npm install parcel-transformer-page  --save-dev`
+`npm install parcel-transformer-page --save-dev`
 
 Create or update the parcel config
 
