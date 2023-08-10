@@ -1,0 +1,17 @@
+{
+    "name": "parcel-transformer-page",
+    "version": "1.0.0",
+    "description": "Parcel plugin to compile @acryps/page",
+    "main": "index.js",
+    "engines": {
+        "parcel": "2.x"
+    },
+    "keywords": [
+        "acryps",
+        "page",
+        "parcel-plugin"
+    ],
+    "devDependencies": {
+        "parcel": "^2.7.0"
+    }
+}
