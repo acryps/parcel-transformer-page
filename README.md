@@ -2,8 +2,9 @@
 
 ## Installation
 
-To install the package run<br>
-> $ npm install --save-dev parcel-transformer-page
+To install the package run
+
+`npm install parcel-transformer-page  --save-dev`
 
 Create or update the parcel config
 
