@@ -1,5 +1,5 @@
 {
-    "name": "parcel-transformer-page",
+    "name": "@acryps/parcel-transformer-page",
     "version": "1.0.0",
     "description": "Parcel plugin to compile @acryps/page",
     "main": "index.js",
